@@ -13,4 +13,4 @@ In each folder, you will find Jupyter notebooks with all the analysis not report
 
 
 Checkpoints and Results
-Resulting models trained on the Tabular and CelebA datasets can be found in this (Google Drive)[https://drive.google.com/drive/folders/1yZOlWHpq2s83-CXBcVkEdLVdhw7wLtZo?usp=drive_link] folder. You will also find the raw data for computing the results reported in the paper: PVIs, fairness metrics, and performances.
+Resulting models trained on the Tabular and CelebA datasets can be found in this [Google Drive](https://drive.google.com/drive/folders/1yZOlWHpq2s83-CXBcVkEdLVdhw7wLtZo?usp=drive_link) folder. You will also find the raw data for computing the results reported in the paper: PVIs, fairness metrics, and performances.
